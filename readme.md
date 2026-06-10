@@ -5,7 +5,7 @@ Access the AI bot here
 
 How It Works
 
-![PDF Chat Demo](images/PDF_LangChain.png)
+![PDF Chat Demo](images/PDF_LangChain.jpg)
 
 
 
@@ -52,7 +52,6 @@ OPENAI_API_KEY=your_api_key
 
 
 Usage
-
 
 To use the App, follow these steps:
 
