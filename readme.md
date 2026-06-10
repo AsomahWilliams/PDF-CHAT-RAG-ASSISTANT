@@ -5,6 +5,8 @@ Access the AI bot here
 
 How It Works
 
+![PDF Chat Demo](images/PDF_LangChain.png)
+
 
 
 
@@ -71,3 +73,5 @@ To use the App, follow these steps:
 
 
 The App Interface
+
+![Chat Interface](images/screenshot.png)
